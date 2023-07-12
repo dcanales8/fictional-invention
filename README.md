@@ -5,4 +5,4 @@ The goal of this project was to build a Javascript application that uses DOM to 
 
 ## Images
 
-![Homepage}(./assets/images/1.png)
+![Homepage](./assets/images/1.png)
