@@ -12,4 +12,4 @@ The goal of this project was to build a Javascript application that uses DOM to 
 ![Scoreboard](./assets/images/3.png)
 
 
-![Link to deployed site](https://dcanales8.github.io/fictional-invention/)
+(https://dcanales8.github.io/fictional-invention/)
