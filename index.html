@@ -7,9 +7,13 @@
         <title>Code Quiz | FUN </title>
         <link rel="stylesheet" href="./assets/css/style.css">
     </head>
-//questions/answers and buttons
+
+    //questions/answers and buttons
       var boxQuestionEl = document.getElementById("question-box");
       var boxStartEl = document.getElementById("starter-box");
+      var questionEl = document.getElementById("question")
+      var answerbuttonsEl = document.getElementById("answer-buttons")
+      var timerEl = document.querySelector("#timer");
       var boxEndEl = document.getElementById("end-box")
       var boxScoreEl = document.getElementById("score-banner")
       var formInitials = document.getElementById("initials-form")
@@ -21,9 +25,6 @@
       var btnStartEl = document.querySelector("#start-game");
       var btnGoBackEl = document.querySelector("#go-back")
       var btnClearScoresEl = document.querySelector("#clear-high-scores")
-      var questionEl = document.getElementById("question")
-      var answerbuttonsEl = document.getElementById("answer-buttons")
-      var timerEl = document.querySelector("#timer");
       var score = 0;
       var timeleft;
       var gameover
